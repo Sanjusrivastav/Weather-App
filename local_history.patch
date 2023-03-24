@@ -1,0 +1,23 @@
+Index: app/src/main/java/com/example/weather/SplashScreen.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/weather/SplashScreen.kt b/app/src/main/java/com/example/weather/SplashScreen.kt
+--- a/app/src/main/java/com/example/weather/SplashScreen.kt	
++++ b/app/src/main/java/com/example/weather/SplashScreen.kt	(date 1679575196276)
+@@ -95,13 +95,10 @@
+     }
+ 
+     private fun NewLocation() {
+-
+         }
+-
+-
+ 
+ 
+-    }
++}
+ 
+ 
+     private fun RequestPermission() {
